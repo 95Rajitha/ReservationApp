@@ -1,0 +1,24 @@
+
+X	java:S125&"<This block of commented-out lines of code should be removed.(„··³8¶¡ğ.
+F
+java:S1068")Remove this unused "gName" private field.(µ­Èï8¶¡ğ.
+X	java:S125"<This block of commented-out lines of code should be removed.(‘òğ¡8¶¡ğ.
+H
+java:S1068"+Remove this unused "contact" private field.(ù×ùØ8¶¡ğ.
+I
+java:S1068",Remove this unused "bookings" private field.(Ê¿ÀÅ8¶¡ğ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒÓ¢ÿıÿÿÿÿ
+D
+java:S1068"'Remove this unused "gId" private field.(«Õ“‹8¶¡ğ.
+]	java:S125"<This block of commented-out lines of code should be removed.(¹Ç˜ùÿÿÿÿ8¶¡ğ.
+]	java:S1256"<This block of commented-out lines of code should be removed.(îÕÁ³úÿÿÿÿ8¶¡ğ.
+]	java:S1252"<This block of commented-out lines of code should be removed.(ñ‡×øÿÿÿÿ8¶¡ğ.
+X	java:S125"<This block of commented-out lines of code should be removed.(ó»ÿ£8¶¡ğ.
+]	java:S125"<This block of commented-out lines of code should be removed.(¢²úÈúÿÿÿÿ8¶¡ğ.
+X	java:S125""<This block of commented-out lines of code should be removed.(¿æ”8¶¡ğ.
+]	java:S125."<This block of commented-out lines of code should be removed.(Ü¯úªşÿÿÿÿ8¶¡ğ.
+X	java:S125*"<This block of commented-out lines of code should be removed.(í©×Ÿ8¶¡ğ.
+i
+java:S1128"LRemove this unused import 'jdk.nashorn.internal.objects.annotations.Getter'.(éÌ’«8ÜÏ•ğ.
+n
+java:S1128"LRemove this unused import 'jdk.nashorn.internal.objects.annotations.Setter'.(µŠÚşÿÿÿÿ8ÜÏ•ğ.

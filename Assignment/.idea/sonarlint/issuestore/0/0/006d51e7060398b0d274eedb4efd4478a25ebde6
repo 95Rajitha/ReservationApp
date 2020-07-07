@@ -1,0 +1,32 @@
+
+c	java:S112¦"FDefine and throw a dedicated exception instead of using a generic one.(Ñœ®Ã8Õ’±œ .
+c	java:S112À"FDefine and throw a dedicated exception instead of using a generic one.(©¼Û¦8ºÉ§¹¡.
+Z
+java:S3655Ò"7Call "Optional#isPresent()" before accessing the value.(Ô£ÂŞıÿÿÿÿ8ª‚‰ø .
+h	java:S112Å"FDefine and throw a dedicated exception instead of using a generic one.(©ëäøüÿÿÿÿ8ıò‹ø .
+c	java:S112”"FDefine and throw a dedicated exception instead of using a generic one.(Û‘˜8Óô¾÷ .
+{
+java:S4144Ÿ"XUpdate this method so that its implementation is not identical to "addUser" on line 405.(şş¤²úÿÿÿÿ8ª‚‰ø .
+g	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(’ş‡ûÿÿÿÿ8šŠ˜î .
+_
+java:S1126¬"AReplace this if-then-else statement by a single return statement.(¨¿êÙ8ª‚‰ø .
+^	java:S125î"<This block of commented-out lines of code should be removed.(¬âÅúÿÿÿÿ8ª‚‰ø .
+Z
+java:S3655Á"7Call "Optional#isPresent()" before accessing the value.(ÈÆ¥ãøÿÿÿÿ8ª‚‰ø .
+Z
+java:S3655¶"7Call "Optional#isPresent()" before accessing the value.(¨ñ¤¥ùÿÿÿÿ8ºÉ§¹¡.
+U
+java:S3655€"7Call "Optional#isPresent()" before accessing the value.(×œüÂ8ª‚‰ø .
+]	java:S125@"<This block of commented-out lines of code should be removed.(¢ØŒúÿÿÿÿ8 ®Ğõ .
+Z
+java:S3655ğ"7Call "Optional#isPresent()" before accessing the value.(Áòùÿÿÿÿ8‰Ê„‹¡.
+c	java:S112â"FDefine and throw a dedicated exception instead of using a generic one.(¾¼¸·8ª‚‰ø .
+Z
+java:S3655¨"7Call "Optional#isPresent()" before accessing the value.(•»âËøÿÿÿÿ8ª‚‰ø .
+Y
+java:S3655v"7Call "Optional#isPresent()" before accessing the value.(½—›îùÿÿÿÿ8­²ô’ .
+c	java:S112µ"FDefine and throw a dedicated exception instead of using a generic one.(ÿ•ùÈ8¸ÙÄ– .
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñŠ®
+b	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(¦ı‡—8 ®Ğõ .
+c	java:S112ƒ"FDefine and throw a dedicated exception instead of using a generic one.(˜Êßª8‰•Úõ .
+b	java:S112f"FDefine and throw a dedicated exception instead of using a generic one.(‰ˆèÕ8®àÃÊ .
